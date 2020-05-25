@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![A Starcraft Terran Siege Tank on black and white Legos](https://i.imgur.com/pM2kWLx.jpeg)
