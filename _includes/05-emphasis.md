@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I'm **objective** and **openminded**. Very *meticulous*. I like *simplicity* and *organized things*. I started with **Python** (and is the one the I like the most so far). I'm getting started with __*Julia*__. I also know **SQL**, **JS** and **Java**.
