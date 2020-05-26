@@ -1,1 +1,10 @@
-Replace this with a list of your favorite things.
+- Coding :computer:
+- Some videogames :video_game:
+- Reading tech​ :desktop_computer::iphone:
+- Healthily life :seedling:
+	- Yoga
+	- Balanced food
+- :soccer:
+- Music :musical_score:
+- DIY
+- Electronics
